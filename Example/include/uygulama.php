@@ -9,8 +9,15 @@
   */
   $name = "ok";
   $surname = "y";
+  $user_name="oky01";
+  $telephone="1234567890";
+  $e_mail="oky@oky.com";
+  $register_date="09.10.2020";
+  $profile_picture="oky.jpg";
 
-  updateUser($name,$surname);
+  //addUser($name,$surname,$user_name,$telephone,$e_mail,$register_date,$profile_picture);
+
+  //updateUser($name,$surname);
 
   /*
   if(isset($_GET["durum"]) == "ok"){
